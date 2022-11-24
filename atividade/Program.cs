@@ -4,7 +4,7 @@ using atividade.Models;
 Console.WriteLine("Aluno: Jorge Luiz Dourado Dobkovski (SI)");
 Console.WriteLine("Iniciando aplicação . . .");
 
-Admin admin1 = new Admin("Manoel Gomes", "canetaazulofc", "ocanetaazul@gmail.com");
+Usuario admin1 = new Admin("Manoel Gomes", "canetaazulofc", "ocanetaazul@gmail.com");
 Usuario cli1 = new Cliente("Naruto da Silva Joestar", "narutopvh", "joestarna@gmail.com");
 Usuario cli2 = new Cliente("Lucas Gonçalves", "proflucas", "lucasprof@gmail.com");
 
@@ -19,7 +19,7 @@ Console.WriteLine(thread1.Conteudo);
 cli1.EditarThread("Diretor de God of War: Ragnarok revela interesse em fazer mais jogos.", thread2);
 Console.WriteLine(thread2.Conteudo);
 cli1.ExcluirThread(thread3);
-admin1.FornecerAcesso(cli2);
+((Admin)admin1).FornecerAcesso(cli2);
 cli2.ExcluirThread(thread1);
 cli2.ResponderThread("eu quero um abraço", thread2);
 Console.WriteLine(thread2.Respostas[0]);

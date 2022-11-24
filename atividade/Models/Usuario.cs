@@ -23,6 +23,5 @@ namespace atividade.Models
         public abstract void ExcluirThread(Models.Thread thread);
 
         public abstract void ResponderThread(string reposta, Models.Thread thread);
-       
     }
 }
