@@ -1,0 +1,15 @@
+D:\Documentos\01. FACULDADE\atividade\atividade\obj\Debug\net7.0\atividade.csproj.AssemblyReference.cache
+D:\Documentos\01. FACULDADE\atividade\atividade\obj\Debug\net7.0\atividade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\01. FACULDADE\atividade\atividade\obj\Debug\net7.0\atividade.AssemblyInfoInputs.cache
+D:\Documentos\01. FACULDADE\atividade\atividade\obj\Debug\net7.0\atividade.AssemblyInfo.cs
+D:\Documentos\01. FACULDADE\atividade\atividade\obj\Debug\net7.0\atividade.csproj.CoreCompileInputs.cache
+D:\Documentos\01. FACULDADE\atividade\atividade\bin\Debug\net7.0\atividade.exe
+D:\Documentos\01. FACULDADE\atividade\atividade\bin\Debug\net7.0\atividade.deps.json
+D:\Documentos\01. FACULDADE\atividade\atividade\bin\Debug\net7.0\atividade.runtimeconfig.json
+D:\Documentos\01. FACULDADE\atividade\atividade\bin\Debug\net7.0\atividade.dll
+D:\Documentos\01. FACULDADE\atividade\atividade\bin\Debug\net7.0\atividade.pdb
+D:\Documentos\01. FACULDADE\atividade\atividade\obj\Debug\net7.0\atividade.dll
+D:\Documentos\01. FACULDADE\atividade\atividade\obj\Debug\net7.0\refint\atividade.dll
+D:\Documentos\01. FACULDADE\atividade\atividade\obj\Debug\net7.0\atividade.pdb
+D:\Documentos\01. FACULDADE\atividade\atividade\obj\Debug\net7.0\atividade.genruntimeconfig.cache
+D:\Documentos\01. FACULDADE\atividade\atividade\obj\Debug\net7.0\ref\atividade.dll
